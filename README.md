@@ -255,4 +255,3 @@ The project uses custom finite element routines for:
 
 Abou Bakr Al Ajami  
 M2 Mathematics, Modeling and Simulation  
-Research interests: scientific computing, numerical PDEs, finite element methods, spectral analysis, inverse problems, and scientific machine learning.
