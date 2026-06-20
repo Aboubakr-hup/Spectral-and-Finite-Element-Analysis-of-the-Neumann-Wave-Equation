@@ -254,4 +254,4 @@ The project uses custom finite element routines for:
 ## Author
 
 Abou Bakr Al Ajami  
-M2 Mathematics, Modeling and Simulation  
+
